@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Van
  My name is Duong Trong Van. I'm a person who has a passion for studying data and how to use it efficiently.
+ 
 ⚡ Fun fact: I love to play game and read manga
 
 ### Connect with me:
