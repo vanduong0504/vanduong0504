@@ -25,7 +25,7 @@
 
 ---
 
-### Github Stats:
-
-![Trong Van's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanduong0504&show_icons=true&theme=merko)
+### Github Stats and Most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanduong0504&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Trong Van's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanduong0504&show_icons=true&theme=merko)
+
